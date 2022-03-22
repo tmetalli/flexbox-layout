@@ -114,23 +114,20 @@ footer {
   background-color: #222;
   height: 80px;
   width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 main {
   background-color: #ccc;
   height: 250px;
   width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 header,
 footer,
 main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 
